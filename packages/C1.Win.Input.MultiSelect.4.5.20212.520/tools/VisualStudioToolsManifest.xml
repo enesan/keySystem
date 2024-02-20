@@ -1,0 +1,8 @@
+﻿<FileList>
+  <File Reference="C1.Win.Input.MultiSelect.4.5.2.dll">
+      <ToolboxItems VSCategory="C1 WinForms Controls" BlendCategory="C1 WinForms Controls">	      
+        <Item Type = "C1.Win.Input.C1MultiSelect"/>
+        <Item Type = "C1.Win.Input.C1TagEditor"/>
+	  </ToolboxItems>
+  </File>
+</FileList>
