@@ -1,0 +1,8 @@
+﻿<FileList>
+  <File Reference="C1.Win.C1Sizer.4.5.2.dll">
+    <ToolboxItems VSCategory="C1 WinForms Controls" BlendCategory="C1 WinForms Controls">
+      <Item Type = "C1.Win.C1Sizer.C1Sizer"/>
+      <Item Type = "C1.Win.C1Sizer.C1SizerLight"/>
+    </ToolboxItems>
+  </File>
+</FileList>

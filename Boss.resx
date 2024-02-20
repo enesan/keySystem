@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="c1DockingTab1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1DockingTabPage1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1FlexGrid1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="c1FlexGrid1.ColumnInfo" xml:space="preserve">
+    <value>5,1,0,0,0,-1,Columns:0{Width:102;Caption:"Id записи";Style:"Font:Segoe UI, 11.5pt;Margins:1, 0, 0, 0;TextAlign:GeneralCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;Border:Flat,1,Gainsboro,Horizontal;";}	1{Width:127;Caption:"Ключ";Style:"Margins:1, 0, 0, 0;TextEffect:Flat;TextDirection:Normal;Trimming:None;Border:Flat,1,224, 224, 224,Both;";}	2{Width:158;Caption:"Сотрудник";}	3{Width:236;Caption:"Дата, время выдачи/возврата";Style:"ForeColor:Black;Margins:1, 0, 0, 0;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	4{Width:182;Caption:"Тип внесения данных";}	</value>
+  </data>
+  <data name="c1FlexGrid1.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;}	Alternate{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Fixed{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:66, 66, 66;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;BackgroundImageLayout:Hide;}	Highlight{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Focus{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Editor{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Search{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Frozen{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	FrozenAlternate{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	NewRow{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	EmptyArea{Font:Segoe UI, 11.5pt;BackColor:232, 232, 232;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,ControlDarkDark,Horizontal;}	SelectedColumnHeader{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	SelectedRowHeader{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	GrandTotal{Font:Segoe UI, 11.5pt;BackColor:243, 235, 254;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal0{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal1{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal2{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal3{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal4{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal5{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	FilterEditor{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Footer{Font:Segoe UI, 11.5pt, style=Bold;BackColor:232, 232, 232;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;BackgroundImageLayout:Hide;}	FirstCustomStyle{}	</value>
+  </data>
+  <metadata name="c1ThemeController1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="c1DockingTabPage2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1FlexGrid2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="c1FlexGrid2.ColumnInfo" xml:space="preserve">
+    <value>6,1,0,0,0,-1,Columns:0{Width:90;AllowFiltering:ByValue;Caption:"Id";Style:"Font:Segoe UI, 14.696pt;Margins:1, 0, 0, 0;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	1{Width:109;Caption:"Фамилия";}	2{Width:109;Caption:"Имя";Style:"Margins:1, 0, 0, 0;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	3{Width:109;Caption:"Отчество";}	4{Width:111;Caption:"Должность";}	5{Width:110;Caption:"Дата рождения";}	</value>
+  </data>
+  <data name="c1FlexGrid2.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;}	Alternate{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Fixed{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:66, 66, 66;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;BackgroundImageLayout:Hide;}	Highlight{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Focus{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Editor{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Search{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Frozen{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	FrozenAlternate{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	NewRow{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	EmptyArea{Font:Segoe UI, 11.5pt;BackColor:232, 232, 232;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,ControlDarkDark,Horizontal;}	SelectedColumnHeader{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	SelectedRowHeader{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	GrandTotal{Font:Segoe UI, 11.5pt;BackColor:243, 235, 254;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal0{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal1{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal2{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal3{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal4{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal5{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	FilterEditor{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Footer{Font:Segoe UI, 11.5pt, style=Bold;BackColor:232, 232, 232;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;BackgroundImageLayout:Hide;}	FirstCustomStyle{}	</value>
+  </data>
+  <metadata name="c1DockingTabPage3.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1FlexGrid3.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="c1FlexGrid3.ColumnInfo" xml:space="preserve">
+    <value>3,1,0,0,0,-1,Columns:0{Width:119;Caption:"Id";}	1{Caption:"Помещение";Style:"DataType:System.String;Margins:1, 0, 0, 0;TextAlign:RightCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;";}	2{Caption:"Статус ключа";Style:"DataType:System.String;TextAlign:LeftCenter;";}	</value>
+  </data>
+  <data name="c1FlexGrid3.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;}	Alternate{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Fixed{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:66, 66, 66;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;BackgroundImageLayout:Hide;}	Highlight{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Focus{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Editor{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Search{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Frozen{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	FrozenAlternate{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	NewRow{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	EmptyArea{Font:Segoe UI, 11.5pt;BackColor:232, 232, 232;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,ControlDarkDark,Horizontal;}	SelectedColumnHeader{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	SelectedRowHeader{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	GrandTotal{Font:Segoe UI, 11.5pt;BackColor:243, 235, 254;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal0{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal1{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal2{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal3{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal4{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal5{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	FilterEditor{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Footer{Font:Segoe UI, 11.5pt, style=Bold;BackColor:232, 232, 232;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;BackgroundImageLayout:Hide;}	FirstCustomStyle{}	</value>
+  </data>
+  <metadata name="c1DockingTabPage4.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1FlexGrid4.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="c1FlexGrid4.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;}	Alternate{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Fixed{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:66, 66, 66;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;BackgroundImageLayout:Hide;}	Highlight{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Focus{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Editor{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Search{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Frozen{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	FrozenAlternate{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	NewRow{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	EmptyArea{Font:Segoe UI, 11.5pt;BackColor:232, 232, 232;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,ControlDarkDark,Horizontal;}	SelectedColumnHeader{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	SelectedRowHeader{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	GrandTotal{Font:Segoe UI, 11.5pt;BackColor:243, 235, 254;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal0{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal1{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal2{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal3{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal4{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal5{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	FilterEditor{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Footer{Font:Segoe UI, 11.5pt, style=Bold;BackColor:232, 232, 232;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;BackgroundImageLayout:Hide;}	FirstCustomStyle{}	</value>
+  </data>
+  <metadata name="c1DockingTabPage5.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1FlexGrid5.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="c1FlexGrid5.ColumnInfo" xml:space="preserve">
+    <value>6,1,0,0,0,-1,Columns:0{Width:105;Caption:"Id";}	1{AllowFiltering:ByValue;Caption:"Фамилия";AllowDragging:False;AllowResizing:False;}	2{Caption:"Имя";}	3{Caption:"Отчество";}	4{Caption:"Логин";}	5{Caption:"Пароль";}	</value>
+  </data>
+  <data name="c1FlexGrid5.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;}	Alternate{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Fixed{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:66, 66, 66;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;BackgroundImageLayout:Hide;}	Highlight{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Focus{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Editor{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Search{BackColor:247, 242, 254;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	Frozen{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	FrozenAlternate{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	NewRow{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	EmptyArea{Font:Segoe UI, 11.5pt;BackColor:232, 232, 232;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,ControlDarkDark,Horizontal;}	SelectedColumnHeader{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	SelectedRowHeader{Font:Segoe UI, 8.25pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:133, 29, 29;}	GrandTotal{Font:Segoe UI, 11.5pt;BackColor:243, 235, 254;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal0{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal1{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal2{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal3{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal4{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Subtotal5{Font:Segoe UI, 11.5pt;BackColor:250, 250, 250;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	FilterEditor{Font:Segoe UI, 11.5pt;BackColor:White;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;}	Footer{Font:Segoe UI, 11.5pt, style=Bold;BackColor:232, 232, 232;ForeColor:21, 21, 21;SearchBackColor:211, 47, 47;Border:Flat,1,Gainsboro,Horizontal;BackgroundImageLayout:Hide;}	FirstCustomStyle{}	</value>
+  </data>
+  <metadata name="c1Label1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1Label2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1Label3.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1Label4.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1Label5.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1TextBox1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1TextBox2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1TextBox3.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1TextBox4.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1TextBox5.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="btnAdd.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1Label6.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="c1Sizer1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="c1Sizer1.GridDefinition" xml:space="preserve">
+    <value>2.49221183800623:False:False;5.60747663551402:False:True;3.27102803738318:False:False;5.60747663551402:False:True;0.311526479750779:False:False;6.07476635514019:False:False;5.60747663551402:False:True;0.311526479750779:False:False;6.23052959501558:False:False;0.311526479750779:False:False;5.60747663551402:False:True;5.60747663551402:False:False;0.311526479750779:False:False;5.60747663551402:False:True;7.00934579439252:False:False;0.311526479750779:False:False;5.60747663551402:False:True;8.25545171339564:False:True;12.4610591900312:False:True;1.4018691588785:False:False;7.63239875389408:False:False;	1.4821272885789:False:False;48.6486486486486:False:False;3.6617262423714:False:False;3.2258064516129:False:False;5.14385353095031:False:False;2.1795989537925:False:False;8.45684394071491:False:False;14.4725370531822:False:False;4.4463818657367:False:False;6.80034873583261:False:False;</value>
+  </data>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>78</value>
+  </metadata>
+</root>
